@@ -5,4 +5,6 @@ duckduckgo.com##li[data-layout="videos"]
 duckduckgo.com##li[data-layout="news"]
 duckduckgo.com##li[data-layout="images"]
 duckduckgo.com##li[id^="sl"]
-duckduckgo.com##li:has([href*="baeldung.com"])
+
+! Custom sites:
+! duckduckgo.com##li:has([href*="SITENAME.COM"])
