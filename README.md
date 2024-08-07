@@ -1,1 +1,1 @@
-Collection of DuckDuckGo Scripts
+Collection of uBlock Origin Scripts
